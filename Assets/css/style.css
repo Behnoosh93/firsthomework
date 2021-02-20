@@ -4,10 +4,13 @@
     margin: 0;
 }
 
-body {
+/* body {
     background-color: #d9dcd6;
-}
+} */
 
+body {
+    background-color: #d6dcd7;
+}
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
